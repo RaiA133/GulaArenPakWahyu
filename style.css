@@ -27,3 +27,24 @@
   .button:hover {
     background-color: #2bac47;
   }
+
+@media only screen and (max-width: 1400px) {
+    .peta .map {
+        width: 540px;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .peta .map {
+        width: 440px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .peta .map {
+        width: 340px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .peta .map {
+        width: 367px;
+    }
+}
